@@ -1,0 +1,37 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#score{
+    font-size: 30px;
+    margin-left: 20px;
+    color: brown;
+}
+
+#timer{
+    font-size: 30px;
+    float: right;
+    margin-right: 20px;
+    color: aquamarine;
+}
+
+#label{
+    color: salmon;
+    font-size: 20px;
+}
+
+#confidence{
+    color: chartreuse;
+    font-size: 20px;
+}
+
+#Sketch{
+    color: darksalmon;
+    font-size: 40px;
+     
+}
+
+#show_sketch{
+    float: right;
+}
